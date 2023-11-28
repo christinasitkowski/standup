@@ -3,7 +3,7 @@ body {
   padding-top: 80px;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly
 }
 
 a {
