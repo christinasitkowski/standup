@@ -1,12 +1,3 @@
-const names = [
-  "Andrew",
-  "Christina",
-  "D.J.",
-  "Lauren",
-  "Marcel",
-  "Matthew"
-];
-
 let count = names.length;
 
 let first = Math.floor(Math.random() * count);
