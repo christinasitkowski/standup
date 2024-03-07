@@ -31,7 +31,7 @@ a {
   font-size: 50px;
   text-align: center;
   background: transparent
-    linear-gradient(90deg, #199f8f 0%, #7265d9 69%, #7264dd 100%) 0% 0%
+    linear-gradient(90deg, #2FB5B4 0%, #945CA3 100%) 0% 0%
     no-repeat padding-box;
   border-radius: 100px;
   color: #f6f6f6;
@@ -41,7 +41,7 @@ a {
 
 .name-block:hover {
   background: transparent
-    linear-gradient(270deg, #199f8f 0%, #7265d9 69%, #7264dd 100%) 0% 0%
+    linear-gradient(270deg, #2FB5B4 0%, #945CA3 100%) 0% 0%
     no-repeat padding-box;
 }
 
