@@ -7,18 +7,18 @@ names.sort(() => Math.random() - 0.5);
 const container = document.querySelector("#name-blocks");
 
 names.forEach((name, index) => {
-  
   let div = document.createElement("div");
   div.className = "name-block";
   let el = document.createTextNode(name);
 
   div.appendChild(el);
   container.appendChild(div);
-  
+
   if (index == first) {
     let badge = document.createElement("div");
     badge.className = "badge";
-    div.className = "name-block animate__animated animate__pulse animate__repeat-3";
+    div.className =
+      "name-block animate__animated animate__pulse animate__repeat-3";
     div.appendChild(badge);
   }
 
