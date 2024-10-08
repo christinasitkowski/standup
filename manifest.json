@@ -1,0 +1,14 @@
+{
+  "name": "Celtx Screenplay",
+  "short_name": "Screenplay",
+  "display": "standalone",
+  "start_url": "https://www.celtx.com/a/ux/screenplayhome",
+  "icons": [
+    {
+      "src": "https://s3.amazonaws.com/celtx.com/production/ux/celtx/9.50.1/ux/assets/img/pwa/maskable.png",
+      "sizes": "300x300",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
