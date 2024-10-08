@@ -9,6 +9,10 @@
       "sizes": "300x300",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "https://s3.amazonaws.com/celtx.com/production/ux/celtx/9.50.1/ux/assets/img/pwa/android/android-launchericon-512-512.png",
+      "sizes": "512x512"
     }
   ]
 }
